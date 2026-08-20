@@ -73,15 +73,21 @@ Senior Software Engineer | Java & Spring Boot | Cloud & Distributed Systems
 ![VS Code](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-informational?style=flat&logo=githubcopilot&logoColor=white&color=2bbc8a)
 
-## 🧑‍💻 Work
+## 🧑‍💻 Experience
 
-| Workplace                                                                             | Designation                                     | Roles              | Roles                                        |
+| Company                                                                             | Designation                                     | Duration           | Roles                                        |
 |---------------------------------------------------------------------------------------|-------------------------------------------------|--------------------|----------------------------------------------|
-| <a href="https://www.triconinfotech.com/" target="_blank">Tricon Infotech Pvt Ltd</a> | Senior Software Engineer (Full Stack Developer) | Aug 2021 - Present | Designed and delivered scalable applications | | API testing                                     |                    |                                              |
+| <a href="https://www.triconinfotech.com/" target="_blank">Tricon Infotech Pvt Ltd</a> | Senior Software Engineer / Full Stack Developer | Aug 2021 - Present | Designed and delivered scalable applications | | API testing                                     |                    |                                              |
 
+## 🚀 Featured Technologies
 
-![](https://komarev.com/ghpvc/?username=Aman-sharma02&color=dc143c&style=for-the-badge)
+```text
+Java • Spring Boot • Microservices • AWS • Docker • Kubernetes
+Kafka • PostgreSQL • Redis • Terraform • GitHub Actions
+```
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-sharma02" alt="Github Streak Stats">
-</p>
+## 📊 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-sharma02&hide_border=true" alt="Aman's GitHub Streak" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aman-sharma02&color=2bbc8a&style=flat-square&label=Profile+Views" alt="Profile views" /> </p> <p align="center"> ⭐ <i>Always learning, always building.</i> ⭐ </p> ```
