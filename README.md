@@ -90,4 +90,4 @@ Kafka • PostgreSQL • Redis • Terraform • GitHub Actions
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-sharma02&hide_border=true" alt="Aman's GitHub Streak" /> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aman-sharma02&color=2bbc8a&style=flat-square&label=Profile+Views" alt="Profile views" /> </p> <p align="center"> ⭐ <i>Always learning, always building.</i> ⭐ </p> ```
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aman-sharma02&color=2bbc8a&style=flat-square&label=Profile+Views" alt="Profile views" /> </p> <p align="center"> ⭐ <i>Always learning, always building.</i> ⭐ </p>
